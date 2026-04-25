@@ -1,5 +1,5 @@
 # kaOne
-AI pocket CFO for Malaysian individuals and small business owners. Built for UM Hackathon 2026 using ILMU-GLM-5.1.
+AI pocket CFO for Malaysian individuals and small business owners. Built for UM Hackathon 2026 using Gemini Pro API.
 
 ## What it does
 
@@ -17,7 +17,7 @@ AI pocket CFO for Malaysian individuals and small business owners. Built for UM 
 ## Tech stack
 
 - HTML / CSS / JavaScript
-- ILMU-GLM-5.1 (Z.AI model)
+- Gemini Pro API 
 - LocalStorage for data persistence
 
 ## How to run
@@ -27,12 +27,12 @@ AI pocket CFO for Malaysian individuals and small business owners. Built for UM 
 
 ## Team
 
-Winx from Universiti Teknologi PETRONAS
+Winx (Team ID: 239) from Universiti Teknologi PETRONAS
 
 ## Acknowledgments
 
 UM Hackathon 2026
-Z.AI / YTL AI Labs for ILMU-GLM-5.1 access
+Gemini Pro API 
 
 ## License
 
