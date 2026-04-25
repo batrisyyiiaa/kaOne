@@ -1,6 +1,10 @@
 # kaOne
 AI pocket CFO for Malaysian individuals and small business owners. Built for UM Hackathon 2026 using Gemini Pro API.
 
+## Video Pitching Link
+https://drive.google.com/file/d/1TtmQTlHY0EmwuftUFaoKD6jTfy87Un05/view?usp=sharing
+- Disclaimer : The pitching video was recorded before the API Key is changed from ILMU-GLM-5.1 (Z.AI) to Gemini Pro API.
+
 ## What it does
 
 - Smart Tax Forecaster – predicts LHDN tax based on your income
